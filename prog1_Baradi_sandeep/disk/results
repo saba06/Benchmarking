@@ -1,0 +1,66 @@
+For args: 2	mb
+Sequential :
+Write :
+Latency: 1	Throughput: 35.91954022988506
+Read :
+Latency: 5	Throughput: 30.835646006783844
+Random :
+Write :
+Latency: 20	Throughput: 500000.00
+Read :
+Latency: 61	Throughput: 500000.00
+For args: 1	mb
+Sequential :
+Write :
+Latency: 1	Throughput: 89.46144211844695
+Read :
+Latency: 0	Throughput: 2538.0710659898476
+Random :
+Write :
+Latency: 21	Throughput: Infinity
+Read :
+Latency: 21	Throughput: 500000.00
+For args: 2	kb
+Sequential :
+Write :
+Latency: 0	Throughput: 36.12977816316208
+Read :
+Latency: 0	Throughput: 30.888984987953296
+Random :
+Write :
+Latency: 6	Throughput: 500000.00
+Read :
+Latency: 59	Throughput: Infinity
+For args: 1	kb
+Sequential :
+Write :
+Latency: 0	Throughput: 87.55034144633164
+Read :
+Latency: 0	Throughput: 2242.152466367713
+Random :
+Write :
+Latency: 4	Throughput: 500000.00
+Read :
+Latency: 27	Throughput: Infinity
+For args: 2	b
+Sequential :
+Write :
+Latency: 0	Throughput: 92.15246636771354
+Read :
+Latency: 0	Throughput: Infinity
+Random :
+Write :
+Latency: 4	Throughput: 500000.00
+Read :
+Latency: 27	Throughput: Infinity
+For args: 1	b
+Sequential :
+Write :
+Latency: 0	Throughput: 98.26675245663215
+Read :
+Latency: 0	Throughput: Infinity
+Random :
+Write :
+Latency: 4	Throughput: Infinity
+Read :
+Latency: 27	Throughput: Infinity

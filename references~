@@ -1,0 +1,17 @@
+for ipref
+
+https://aws.amazon.com/premiumsupport/knowledge-center/network-throughput-benchmark-linux-ec2/
+
+for iozone
+
+
+https://www.krenger.ch/blog/amazon-ec2-io-performance/
+
+check
+
+https://aws.amazon.com/ec2/instance-types/
+for cpu
+
+http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/EBSVolumeTypes.html#EBSVolumeTypes_gp2
+for disk
+
